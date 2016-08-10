@@ -1,3 +1,8 @@
 # hello-world
-first repository
-retired software developer IBM and Lockheed Martin
+retired software developer
+<ul>
+ <li>IBM</li>
+  <li>Loral</li>
+ <li>Lockheed Martin</li>
+</ul> 
+
